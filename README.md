@@ -1,11 +1,16 @@
-# Stealthify
+# chatbot
 
-Team Members
-1) Abhay Bhandarkar (https://github.com/AbhayBhandarkar)
-2) Abhishek Jacob Santhosh (https://github.com/AbhishekJacobSanthosh)
-3) Amogh Kalasapura (https://github.com/Amoghk04)
+A new Flutter project.
 
-A team consisting of three members Abhay Bhandarkar, Abhishek and Amogh Kalasapura from Department of Computer Science and Engineering aiming to make the students life and productity better and beat procrastination. Also helps to add weightage to masters application. 
+## Getting Started
 
-Working-
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
