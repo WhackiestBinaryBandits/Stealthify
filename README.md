@@ -13,3 +13,6 @@ Team Memebers:
 1) Abhay Bhandarkar (https://github.com/AbhayBhandarkar)
 2) Abhishek Jacob Santhosh (https://github.com/AbhishekJacobSanthosh)
 3) Amogh Kalasapura (https://github.com/Amoghk04)
+
+Powerpoint Presentation of the APP
+[STEALTHIFY.pptx](https://github.com/WhackiestBinaryBandits/chatbotfotwhackiest/files/10526568/STEALTHIFY.pptx)
