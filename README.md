@@ -1,16 +1,9 @@
-# chatbot
+# Stealthify
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is by the students and for the students. Made by 3 students at MSRIT Abhay Bhandarkar, Amogh Kalasapura and Abhishek Jacob Santhosh, this app focuses on the mental health and productity of the students.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The UI connects the students with their proctors upon login as soon as the proctors receive the admittance request. Students can track their daily life using the time trackers and also connect to their proctor and psychologist if required with end to end encryption. This enhances the privacy of the students and fecilitates transparency throughout.
