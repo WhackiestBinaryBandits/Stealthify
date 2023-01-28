@@ -10,5 +10,7 @@ Stealthify also aims to promote the proctor to student interaction in the colleg
 
 Heres the link of the ppt of Stealthify- (https://1drv.ms/p/s!AoK0D5wP0DPpjXGsuammU7W8jTiU?e=E9NaZR)
 
-
+The apk of the app can be accessed in apkfile tag in releases.
+Username is abhaybhand@gmail.com
+Password is 123456789
 
