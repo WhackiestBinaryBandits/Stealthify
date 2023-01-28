@@ -15,4 +15,4 @@ Team Memebers:
 3) Amogh Kalasapura (https://github.com/Amoghk04)
 
 Powerpoint Presentation of the APP
-[STEALTHIFY.pptx](https://github.com/WhackiestBinaryBandits/chatbotfotwhackiest/files/10526568/STEALTHIFY.pptx)
+[STEALTHIFY.pptx](https://1drv.ms/p/s!AoK0D5wP0DPpjXGsuammU7W8jTiU?e=6EeWl3)
