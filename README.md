@@ -1,16 +1,12 @@
-# chatbot
+# Stealthify
 
-A new Flutter project.
+An app to track the productivity and ensure mental wellbeing of students.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+STEALTHIFY is the name of the app that is being developed by Binary Bandits team using Flutter and Firebase with the language Dart. It is an app that we hope will be useful to students not just of our college, but to students in colleges all across the country! We aim to make a platform which helps to boost the productivity of a student and ensure that he or she is mentally secure and healthy.
 
-A few resources to get you started if this is your first Flutter project:
+Stealthify also aims to promote the proctor to student interaction in the college by reducing the number of students barging into the staff rooms every Friday at RIT and automates their proctor meeting experience all through the app. This enhances transparency of the student's problems and aims to provide proper mentoring via the proctor in the form of an end-to-end secure encrypted chat ensuring their privacy and transparency.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
