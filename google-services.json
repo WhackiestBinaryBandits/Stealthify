@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710719361174",
+    "project_id": "stealthify-568d4",
+    "storage_bucket": "stealthify-568d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710719361174:android:629d04c3a9c9ebe75732b7",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710719361174-2jcasgkn1m1fkkhreeolqpdgkukj83pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBydoCdatSZ-C8DJvRo13_jeWPoxvIVnzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710719361174-2jcasgkn1m1fkkhreeolqpdgkukj83pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
